@@ -30,7 +30,7 @@
                 <h4>Techologies:</h4>
                 <ul>
                         <li>React</li>
-                        <li>ContextApi</li>
+                        <li>ContextApi / Redux</li>
                         <li>React Router</li>
                         <li>Styled Components</li>
                 </ul>
