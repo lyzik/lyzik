@@ -26,7 +26,7 @@
         <h2>Projects</h2>
         <div>
                 <h3>Rick and Morty Characters</h3>
-                <img src="https://user-images.githubusercontent.com/49536631/206917355-57658cea-802a-4891-9332-9586018b2dbf.png" width="35%"><br>
+                <img src="https://user-images.githubusercontent.com/49536631/206917355-57658cea-802a-4891-9332-9586018b2dbf.png" width="350px"><br>
                 <h4>Techologies:</h4>
                 <ul>
                         <li>React</li>
