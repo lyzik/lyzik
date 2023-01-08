@@ -41,5 +41,5 @@
 <div>
         <h2>Contact</h2>
         <a href="mailto:mikolajlyzinski@gmail.com ">📧mikolajlyzinski@gmail.com </a><br>
-        <a href="[https://i0.wp.com/dataaspirant.com/wp-content/uploads/2020/09/Linkedin-logo-1-550x550-300x300-1.png?ssl=1](https://www.linkedin.com/in/mikołaj-łyziński-63818a236/)"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="17px">   LinkedIn</a>
+        <a href="https://www.linkedin.com/in/mikołaj-łyziński-63818a236/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="17px">   LinkedIn</a>
 </div>
