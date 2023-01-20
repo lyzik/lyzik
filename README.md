@@ -38,7 +38,6 @@
                 <a href="https://sianko-rickandmorty.netlify.app">🔗Link</a><br>
                 <a href="https://github.com/lyzik/rick-and-morty">📚Github Project</a><br>
         </div>
-        
         <div>
                 <h3>Drinkfinder</h3>
                 <img src="https://user-images.githubusercontent.com/49536631/213759749-1065492e-f61a-4f24-a0dd-3c76a9ee8e55.png" width="350px"><br>
