@@ -16,10 +16,11 @@
                 <li>CSS</li>
                 <li>JavaScript</li>
                 <li>React</li>
+                <li>Redux</li>
         </ul>
         <h3>I'm currently learning</h3>
         <ul>
-                <li>Redux</li>
+                <li>Next.js</li>
         </ul>
 </div>
 <div>
