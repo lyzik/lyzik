@@ -35,8 +35,25 @@
                         <li>React Router</li>
                         <li>Styled Components</li>
                 </ul>
-                <a href="https://morty-and-rick-characters.netlify.app">🔗Link</a><br>
+                <a href="https://sianko-rickandmorty.netlify.app">🔗Link</a><br>
                 <a href="https://github.com/lyzik/rick-and-morty">📚Github Project</a><br>
+        </div>
+        
+        <div>
+                <h3>Drinkfinder</h3>
+                <img src="https://user-images.githubusercontent.com/49536631/213759749-1065492e-f61a-4f24-a0dd-3c76a9ee8e55.png" width="350px"><br>
+                <h4>Techologies:</h4>
+                <ul>
+                        <li>React</li>
+                        <li>Redux / Toolkit</li>
+                        <li>React Router</li>
+                        <li>Styled Components</li>
+                        <li>Vite</li>
+                        <li>Cocktaildb.com api</li>
+                        <li>React Color Extractor</li>
+                </ul>
+                <a href="https://sianko-drinkfinder.netlify.app">🔗Link</a><br>
+                <a href="https://github.com/lyzik/DrinkFinder">📚Github Project</a><br>
         </div>
 </div>
 <div>
