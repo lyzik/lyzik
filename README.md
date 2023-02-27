@@ -15,12 +15,14 @@
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>JavaScript</li>
+                <li>TypeScript</li>
                 <li>React</li>
                 <li>Redux</li>
+                <li>Next.js</li>
         </ul>
         <h3>I'm currently learning</h3>
         <ul>
-                <li>Next.js</li>
+                <li>Docker</li>
         </ul>
 </div>
 <div>
