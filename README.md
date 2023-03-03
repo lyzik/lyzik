@@ -69,8 +69,8 @@
                         <li>lyrics finder</li>
                         <li>NextAuth</li>
                 </ul>
-                <a href="https://sianko-drinkfinder.netlify.app">🔗Link</a><br>
-                <a href="https://github.com/lyzik/DrinkFinder">📚Github Project</a><br>
+                <a href="https://karaokeapp.vercel.app">🔗Link</a><br>
+                <a href="https://github.com/lyzik/karaokeapp">📚Github Project</a><br>
         </div>
 </div>
 <div>
