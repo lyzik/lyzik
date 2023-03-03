@@ -56,6 +56,22 @@
                 <a href="https://sianko-drinkfinder.netlify.app">🔗Link</a><br>
                 <a href="https://github.com/lyzik/DrinkFinder">📚Github Project</a><br>
         </div>
+        <div>
+                <h3>Karaoke app</h3>
+                <img src="https://user-images.githubusercontent.com/49536631/222721190-5981de80-9c9a-43cd-93c5-d28a07163387.png" width="350px"><br>
+                <h4>Techologies:</h4>
+                <ul>
+                        <li>React</li>
+                        <li>Next.js</li>
+                        <li>TypeScript</li>
+                        <li>Styled JSX</li>
+                        <li>Spotify API</li>
+                        <li>lyrics finder</li>
+                        <li>NextAuth</li>
+                </ul>
+                <a href="https://sianko-drinkfinder.netlify.app">🔗Link</a><br>
+                <a href="https://github.com/lyzik/DrinkFinder">📚Github Project</a><br>
+        </div>
 </div>
 <div>
         <h2>Contact</h2>
