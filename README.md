@@ -20,10 +20,10 @@
                 <li>Redux</li>
                 <li>Next.js</li>
         </ul>
-        <h3>I'm currently learning</h3>
+<!--         <h3>I'm currently learning</h3>
         <ul>
                 <li>Docker</li>
-        </ul>
+        </ul> -->
 </div>
 <div>
         <h2>Projects</h2>
