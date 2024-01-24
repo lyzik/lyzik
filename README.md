@@ -19,10 +19,11 @@
                 <li>React</li>
                 <li>Redux</li>
                 <li>Next.js</li>
+                <li>Vue.JS</li>
         </ul>
         <h3>I'm currently learning</h3>
         <ul>
-                <li>Vue.JS</li>
+                <li>SQL</li>
                 <li>C#</li>
         </ul>
 </div>
