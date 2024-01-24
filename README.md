@@ -17,9 +17,10 @@
                 <li>JavaScript</li>
                 <li>TypeScript</li>
                 <li>React</li>
+                <li>Vue</li>
                 <li>Redux</li>
                 <li>Next.js</li>
-                <li>Vue.JS</li>
+                <li>Nuxt</li>
         </ul>
         <h3>I'm currently learning</h3>
         <ul>
