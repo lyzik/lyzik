@@ -1,7 +1,7 @@
 <div align="center">  
         <img src="https://media0.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif?cid=ecf05e47v4rk4edjkbqqnr0mkzy42bpn9sa0tjm4p21m846i&rid=giphy.gif&ct=s" width="30%"/>
         <h1>Hello I’m Mikołaj Łyziński 👋 </h1>
-        <h2>A Junior Frontend Developer<h2/>
+        <h2>A Junior Software Developer<h2/>
 </div>
 <div>
         <h2>About me 🧔🏻</h2>
